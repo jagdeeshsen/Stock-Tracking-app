@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CapXProject</string>
+
+    <string name="searchText">Fetch Data</string>
+    <string name="stockDetails">Stock Details</string>
+    <string name="stockName">Stock</string>
+    <string name="stockPrice">Price</string>
+    <string name="priceChange">Price change</string>
+    <string name="ChangeInPercent">% change</string>
+    <string name="LatestTradingDay">Latest trading day</string>
+
+    // hint string text
+    <string name="searchTextHint">Search here...</string>
+    <string name="stockNameHint">Stock Nme</string>
+    <string name="stockPriceHint">Stock Price</string>
+    <string name="priceChangeHint">change</string>
+    <string name="ChangeInPercentHint">change in %</string>
+    <string name="LatestTradingDayHint">Trading day</string>
+
+
+</resources>
