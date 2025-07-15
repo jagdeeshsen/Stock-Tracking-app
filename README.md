@@ -26,7 +26,7 @@ A robust and responsive stock tracking mobile application built to monitor real-
 
 ---
 
-## 🧑‍💻 Getting Started
+# Getting Started
 
 ### Prerequisites
 
@@ -40,3 +40,7 @@ A robust and responsive stock tracking mobile application built to monitor real-
 ```bash
 git clone https://github.com/yourusername/stock-tracking-app.git
 
+2. Open the project in Android Studio.
+3. Add the network permission in the AndroidManifest.xml file.
+4. Add your Alpha Vantage API Key in the config file or as an environment variable.
+5. Run the app on an emulator or physical device.
