@@ -35,12 +35,7 @@ A robust and responsive stock tracking mobile application built to monitor real-
 
 ### Installation Steps
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/stock-tracking-app.git
-
+1. Clone the repository.
 2. Open the project in Android Studio.
-3. Add the network permission in the AndroidManifest.xml file.
-4. Add your Alpha Vantage API Key in the config file or as an environment variable.
-5. Run the app on an emulator or physical device.
+3. Add your Alpha Vantage API Key in the config file or as an environment variable.
+4. Run the app on an emulator or physical device.
